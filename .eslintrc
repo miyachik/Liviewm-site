@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "react/prefer-stateless-function": 0,
+    "import/prefer-default-export": 0,
+    "jsx-a11y/href-no-hash": "off",
+    "quotes": [
+      2,
+      "double"
+    ],
+    "newline-per-chained-call": 0
+  }
+}
