@@ -3241,6 +3241,10 @@ license-webpack-plugin@^0.4.3:
   dependencies:
     object-assign "^4.1.0"
 
+livephotoskit@^1.5.4:
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/livephotoskit/-/livephotoskit-1.5.4.tgz#00c7f41c9c305d2d727ccc218a735f94fd17f83a"
+
 load-json-file@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/load-json-file/-/load-json-file-1.1.0.tgz#956905708d58b4bab4c2261b04f59f31c99374c0"

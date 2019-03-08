@@ -13,6 +13,7 @@
   "dependencies": {
     "@types/history": "^4.6.2",
     "history": "^4.7.2",
+    "livephotoskit": "^1.5.4",
     "postcss-loader": "^2.1.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -31,9 +32,9 @@
     "@types/react": "^16.0.38",
     "@types/react-dom": "^16.0.4",
     "@types/react-redux": "^5.0.15",
-    "@types/redux": "^3.6.0",
     "@types/react-router-dom": "4.2.6",
     "@types/react-router-redux": "5.0.14",
+    "@types/redux": "^3.6.0",
     "babel-loader": "8.0.0-beta.3",
     "css-loader": "^0.28.0",
     "eslint": "^4.1.1",
